@@ -14,3 +14,12 @@ https://atomiks.github.io/30-seconds-of-css/
 ## Contributing
 
 See CONTRIBUTING.md for the snippet template.
+
+
+
+</BR>
+
+<a href="https://golden-farm.biz/?r=1673249" target="_blank">
+<img src="https://golden-farm.biz/images/promo/en/728x90.gif"
+alt="Profit every 10 minutes!"></a>
+
